@@ -1,0 +1,19 @@
+{
+  "name": "flipback",
+  "version": "1.0.0",
+  "description": "Backend for Flipkart",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gorli",
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
